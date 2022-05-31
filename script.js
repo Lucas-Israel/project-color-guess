@@ -54,4 +54,3 @@ reset.addEventListener('click', () => {
   adivinhe.innerHTML = `${bolasColoridas[0].style.backgroundColor}`;
   answer.innerHTML = 'Escolha uma cor';
 });
-// a
