@@ -2,11 +2,10 @@
 
 ```
 1. Desenvolver uma aplicação utilizando JavaScript, HTML5 e CSS3.
-2. possível jogar um jogo de adivinhação de cores onde:
-
-  2.1 Dentro de uma possibilidade de cores o jogador deverá tentar adivinhar qual cor foi aleatoriamente selecionada como a cor certa;
-  2.2 A paleta de cores deve ser apresentada por círculos coloridos;
-  2.3 Deverá existir um botão para iniciar e reiniciar o jogo;
+2. Ser possível jogar um jogo de adivinhação de cores onde:
+  2.1 Dentro de uma possibilidade de cores o jogador deverá tentar adivinhar qual cor foi aleatoriamente selecionada como a cor certa.
+  2.2 A paleta de cores deve ser apresentada por círculos coloridos.
+  2.3 Deverá existir um botão para iniciar e reiniciar o jogo.
   2.4 Ao selecionar uma cor um texto deverá informar se você acertou ou não a cor correta.
 ```
 
@@ -47,4 +46,4 @@ projeto bônus
 
 ![Captura de tela de 2023-05-04 11-58-00](https://user-images.githubusercontent.com/104790267/236247078-cfb55a9b-898b-404a-840b-aa4a149380a3.png)
 
-:warning: por ser um projeto bônus, a avaliação dele não interfere na formação.
+##### :warning: por ser um projeto bônus, a avaliação dele não interfere na formação.
