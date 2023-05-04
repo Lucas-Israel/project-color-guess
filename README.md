@@ -12,7 +12,7 @@
 <details>
   <summary>:speech_balloon: Exemplo de funcionamento</summary>
   
-![gif exemplo](https://github.com/Lucas-Israel/project-color-guess/blob/main/guess-the-color.gif?raw=true)
+![gif exemplo](https://github.com/Lucas-Israel/project-color-guess/blob/main/guess-the-color.gif)
   
 </details>
 
